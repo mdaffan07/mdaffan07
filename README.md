@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Affan!
 
 💻 Web Developer | 🎓 Diploma in Information Technology  
-🚀 Working on Full-stack Projects & IoT Systems
+🚀 Working on Full-stack Projects & IoT Projects
 
 🔧 Tech Stack:
 - Frontend: HTML, CSS, JavaScript, Bootstrap
