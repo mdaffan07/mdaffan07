@@ -11,7 +11,7 @@
 
 📌 Projects:
 - [Quizeon – A Quiz System](https://github.com/mdaffan07/quizeon)
-  A full-stack quiz web app with user & admin dashboards, dynamic questions, timed quizzes, score tracking, and search/filter options.  
+  A full-stack quiz web app with user & admin dashboards, timed quizzes, score tracking, and search/filter options.  
   *Built with Node.js, EJS, PostgreSQL, Express & JavaScript.*
 
 - **🌿 Smart Plant Monitoring System (IoT)**  
