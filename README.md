@@ -7,7 +7,7 @@
 - Frontend: HTML, CSS, JavaScript, Bootstrap
 - Backend: Node.js, Express
 - Database: PostgreSQL
-- Others: Arduino, Blynk, Git, GitHub
+- Others: Arduino UNO, ESP8266, ESP32, Blynk, Git, GitHub
 
 📌 Projects:
 - [Quizeon – A Quiz System](https://github.com/mdaffan07/quizeon)
