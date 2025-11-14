@@ -5,7 +5,6 @@
 
 🔧 Tech Stack:
 - Frontend: HTML, CSS, JavaScript, Bootstrap
-- Backend: Node.js, Express
 - Database: PostgreSQL
 - Others: Arduino UNO, ESP8266, ESP32, Blynk, Git, GitHub
 
